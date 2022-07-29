@@ -36,8 +36,8 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);  //--> Create MFRC522 instance.
 #define ON_Board_LED 2  //--> Defining an On Board LED, used for indicators when the process of connecting to a wifi router
 
 //----------------------------------------SSID and Password of your WiFi router-------------------------------------------------------------------------------------------------------------//
-const char* ssid = "realme X2";
-const char* password = "sunny@123";
+const char* ssid = "myWIFI";
+const char* password = "pk@123";
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------//
 
 ESP8266WebServer server(80);  //--> Server on port 80
