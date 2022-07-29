@@ -1,6 +1,6 @@
 /*
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # RFID MFRC522 / RC522 Library : https://github.com/miguelbalboa/rfid #
+  #                                                                     #
   #                                                                     #
   #                 Installation :                                      #
   # NodeMCU ESP8266/ESP12E    RFID MFRC522 / RC522                      #
