@@ -87,15 +87,16 @@
 		
 		We, hereby declare that the work being presented in this project, titled “RFID Smart Health Card” as a part of course curriculum of Bachelor In Computer Application [BCA], is an authentic record of our own work carried out under the guidance of Fr. Dr. Alphonse Sebastian, SJ, Controller of Examinations, St. Xavier’s College of Management & Technology, Patna.<br><br>
 		<b>Project Developers</b><br>
+	        <table>
+		<tr><td>Name:</td><td>Pradeep kumar</td></tr>
+		<tr><td>Email_Id:</td><td>pradeepwithscience@gmail.com</td></tr>
+		<tr><td>contact:</td><td>914290XXXX</td></tr>
+		</table><br>
 		<table>
 		<tr><td>Name:</td><td>Shubham kumar</td></tr>
 		<tr><td>Email_Id:</td><td>shubhammehta11111998@gmail.com</td></tr>
-		<tr><td>contact:</td><td>9852733706</td></tr>
+		<tr><td>contact:</td><td>985273XXXX</td></tr>
 		</table><br>
-		<table>
-		<tr><td>Name:</td><td>Pradeep kumar</td></tr>
-		<tr><td>Email_Id:</td><td>pradeepwithscience@gmail.com</td></tr>
-		<tr><td>contact:</td><td>9142904695</td></tr>
-		</table><br>
+		
 	</body>
 </html>		
